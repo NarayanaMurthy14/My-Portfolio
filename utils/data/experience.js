@@ -5,10 +5,10 @@ export const experiences = [
     company: "Next24tech",
     duration: "(May 2024 - July 2024)",
     description: [
-      "Built real-time options analytics platform using React & Flask",
-      "Integrated live market feed via ZeroMQ & SQLite",
-      "Improved UI responsiveness and performance using memoization"
-    ]
+  "Developed and enhanced the company's website using HTML, CSS, and JavaScript",
+  "Built responsive web pages and reusable UI components for improved user experience",
+  "Improved website layout, navigation, and frontend functionality across multiple devices"
+  ]  
   },
   {
     id: 2, 
@@ -16,9 +16,9 @@ export const experiences = [
     company: "Cognifyz Technologies", 
     duration: "(April 2023 -May 2023)",
     description: [
-      "Created automated test cases using RobotFramework",
-      "Worked closely with developers to ensure E2E coverage",
-      "Raised bugs that i found in the O9 brain"
-    ]
+  "Developed Python scripts using functions, loops, and core data structures",
+  "Implemented exception handling and debugging to identify and resolve software issues",
+  "Performed data manipulation and database operations for efficient data management"
+]
   }
 ]
